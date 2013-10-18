@@ -3,10 +3,14 @@
 	"description": "Specify the location of the uploads and themes directories",
 	"homepage"   : "https://github.com/johnbillion/directory-crontrol/",
 	"license"    : "GPL-2.0+",
+	"type"       : "wordpress-plugin",
 	"authors"    : [
 		{
 			"name"    : "John Blackbourn",
 			"homepage": "https://johnblackbourn.com/"
 		}
-	]
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
 }
