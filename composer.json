@@ -1,0 +1,12 @@
+{
+	"name"       : "johnbillion/directory-control",
+	"description": "Specify the location of the uploads and themes directories",
+	"homepage"   : "https://github.com/johnbillion/directory-crontrol/",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "John Blackbourn",
+			"homepage": "https://johnblackbourn.com/"
+		}
+	]
+}
